@@ -1,0 +1,13 @@
+2018-12-29 14:50:58,709-INFO-logger.py-api_test_logger-logging info:start testing
+2018-12-29 14:50:58,710-INFO-logger.py-api_test_logger-logging info:test data: http://47.107.168.87:8080/futureloan/mvc/api/member/login, {'mobilephone': '18105664956', 'pwd': '123456'}, post
+2018-12-29 14:50:58,995-INFO-logger.py-api_test_logger-logging info:finished testing
+2018-12-29 14:50:58,996-INFO-logger.py-api_test_logger-logging info:start testing
+2018-12-29 14:50:58,997-INFO-logger.py-api_test_logger-logging info:test data: http://47.107.168.87:8080/futureloan/mvc/api/member/login, {'mobilephone': '18105664956', 'pwd': '1255556'}, post
+2018-12-29 14:50:59,273-INFO-logger.py-api_test_logger-logging info:finished testing
+2018-12-29 14:50:59,275-INFO-logger.py-api_test_logger-logging info:start testing
+2018-12-29 14:50:59,275-INFO-logger.py-api_test_logger-logging info:test data: http://47.107.168.87:8080/futureloan/mvc/api/member/register, {'mobilephone': '15863259007', 'pwd': '123456'}, get
+2018-12-29 14:50:59,834-INFO-logger.py-api_test_logger-logging info:finished testing
+2018-12-29 14:50:59,835-INFO-logger.py-api_test_logger-logging info:start testing
+2018-12-29 14:50:59,836-INFO-logger.py-api_test_logger-logging info:test data: http://47.107.168.87:8080/futureloan/mvc/api/member/register, {'mobilephone': '18105664956', 'pwd': '123456'}, get
+2018-12-29 14:51:00,114-INFO-logger.py-api_test_logger-logging info:finished testing
+2018-12-29 14:51:00,115-INFO-logger.py-api_test_logger-logging info:finished testing and generated test report
